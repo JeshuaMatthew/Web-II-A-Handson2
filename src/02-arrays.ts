@@ -26,4 +26,4 @@ num.forEach(num =>{
 
 const doubledNum = num.map(num => num * 2);
 
-console.log("doubled numbers : ", doubledNum)
+console.log("doubled numbers : ", doubledNum);
